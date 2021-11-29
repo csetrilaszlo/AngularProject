@@ -1,4 +1,4 @@
-import { Task } from './Tasks';
+import { Task } from './post.model';
 
 export const TASKS: Task[] = [
     {
